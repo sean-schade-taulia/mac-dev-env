@@ -58,7 +58,6 @@ brew cask install iterm2
 ### Install rbenv
 ```
 brew install rbenv
-
-rbenv global 2.10
+rbenv global 2.1.0
 ```
 
