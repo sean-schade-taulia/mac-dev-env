@@ -61,3 +61,7 @@ brew install rbenv
 rbenv global 2.1.0
 ```
 
+### Install MacVim
+```
+brew install macvim
+```
